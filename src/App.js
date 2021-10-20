@@ -17,7 +17,6 @@ import GetInTouch from "./Admin/GetInTouch";
 import EditUser from "./Auth/editUserDetails";
 import Bookings from "./Components/Bookings";
 
-import Aboutus from "./Core/Aboutus";
 
 import PackageGalleryImages from "./Admin/PackageGalleryImages";
 import EditPackage from "./Admin/EditPackage";
@@ -61,7 +60,7 @@ function App() {
             <Route path="/" exact component={Home} />
             <Route path="/contactus" exact component={ContactUs} />
             <Route path="/categories" exact component={Categroies} />
-            <Route path="/aboutus" exact component={Aboutus} />
+            
             <Route path="/custompackage" exact component={CustomPackage} />
             <Route path="/pdf/:bookingId" exact component={MyDocument} />
             <Route

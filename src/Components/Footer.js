@@ -21,7 +21,7 @@ function Footer() {
               <h3 className="footer-section-title">About Us</h3>
               <div className="footer-section-content-div">
                 <p className="footer-section-content">
-                North India’s well-known and one of the best trekking, skiing, expedition and biking organisation. The company is headquartered in Auli, Uttarakhand, an adventure hotspot. Every year, people choose Pac Auli because of our unrivalled tradition, experience, local knowledge and quality standards.
+                North India’s well-known and one of the best trekking, skiing, expedition and biking organisation. The company is headquartered in bir,Himachal Pradesh an adventure hotspot. Every year, people choose Kashti Travels because of our unrivalled tradition, experience, local knowledge and quality standards.
                 </p>
               </div>
             </div>
@@ -94,16 +94,16 @@ function Footer() {
               <div className="footer-section-content-div">
                 <a href="tel:+917906114905">
                   <p className="footer-section-content">
-                    Phone : +91-7906114905
+                    Phone : +91-9815410772
                   </p>
                 </a>
-                <a href="mailto:info@pacauli.com">
+                <a >
                   <p className="footer-section-content">
-                    Email : info@pacauli.com
+                    Email : info@kashtitravels.com
                   </p>
                 </a>
                 <p className="footer-section-content">
-                  Address : Pac Auli Office, Auli Road, Joshimath
+                  Address : bir, Himachal Pradesh
                 </p>
               </div>
             </div>
@@ -111,25 +111,25 @@ function Footer() {
         </Row>
         <hr className="footer-divider" />
         <div className="footer-socials">
-          <a href="https://www.instagram.com/pac_auli/?hl=en">
+          <a >
             <AiFillInstagram className="footer-social-icon" />
           </a>
-          <a href="https://www.facebook.com/Pacauli/">
+          <a >
             <AiFillFacebook className="footer-social-icon" />
           </a>
-          <a href="mailto:info@pacauli.com">
+          <a>
             <AiOutlineMail className="footer-social-icon" />
           </a>
-          <a href="https://www.google.com/search?q=pacauli&rlz=1C1CHBF_enIN863IN863&oq=pacauli+&aqs=chrome..69i57j69i59j69i60l6.1995j0j4&sourceid=chrome&ie=UTF-8#lrd=0x39a79dae40b6daf7:0x6564e03ad73a0fbf,1,,,">
+          <a >
             <AiFillGoogleCircle className="footer-social-icon" />
           </a>
-          <a href="https://www.youtube.com/channel/UCLJwNA0dOYJk3AJb-yC3MKw">
+          <a>
             <AiFillYoutube className="footer-social-icon" />
           </a>
         </div>
         <div className="footer-last">
           <p className="footer-copyright-content">
-            Copyright © 2021 PacAuli. All Rights Reserved.
+            Copyright © 2021 Kashti Travels. All Rights Reserved.
           </p>
         </div>
       </div>

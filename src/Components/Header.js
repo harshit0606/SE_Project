@@ -15,7 +15,7 @@ import { toast, ToastContainer } from "react-toastify";
 import emailjs from "emailjs-com";
 import firebase from "firebase";
 import { useFormik } from "formik";
-import logo from "../Assets/logo.png";
+import logo from "../Assets/kashti travels.png";
 
 const isActive = (history, path) => {
   if (history.location.pathname === path) {
@@ -317,14 +317,7 @@ const Header = ({ history }) => {
                   >
                     <li>Contact Us</li>
                   </Link>
-                  <Link
-                    className="deconone"
-                    to="/aboutus"
-                    style={isActive(history, "/aboutus")}
-                    onClick={changeScreen}
-                  >
-                    <li>About Us</li>
-                  </Link>
+                  
                   {isLoggedIn ? (
                     <Link
                       className="deconone"
