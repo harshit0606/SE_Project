@@ -21,11 +21,7 @@ function Footer() {
               <h3 className="footer-section-title">About Us</h3>
               <div className="footer-section-content-div">
                 <p className="footer-section-content">
-                  PAC AULI is more than seven in sequential order words. It
-                  represents a dream, commitment, and determination. Life is all
-                  about living once for your dream and other responsibilities,
-                  we want to be a medium that helps individuals in doing the
-                  most adorable thing.
+                North India’s well-known and one of the best trekking, skiing, expedition and biking organisation. The company is headquartered in Auli, Uttarakhand, an adventure hotspot. Every year, people choose Pac Auli because of our unrivalled tradition, experience, local knowledge and quality standards.
                 </p>
               </div>
             </div>

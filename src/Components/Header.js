@@ -477,7 +477,7 @@ const Header = ({ history }) => {
               onSubmit={formik.handleSubmit}
               onClick={sendEmail}
             >
-              GET IN TOUCH
+              Submit
             </button>
           </div>
         </div>

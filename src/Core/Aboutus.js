@@ -148,31 +148,7 @@ const Aboutus = () => {
 
                     <p className="about-founder">
                       <em>
-                        Anshuman’s curiosity to endeavor the Himalayas started
-                        at a very young age. His passion for trekking and
-                        delving into one of the most famous adventure sports,
-                        ‘skiing,’ started when he was 10 years old. How did this
-                        happen? What made him so inquisitive to explore this
-                        mountain range? Like any other adrenaline junkie, he
-                        went on different treks with his cousins and their
-                        trekking groups from India and people from other
-                        continents. One day when he went for his first peak
-                        summit of Mt Pangarchulla at the age of 12. This was a
-                        game-changing moment for him, and then he never looked
-                        back. He realized that his love for the mountains could
-                        not be replaced; hence he started his own trekking
-                        company at 16. Anshuman was a different person
-                        altogether; wanted to do something different and break
-                        the barriers. A rank holder in studies from India's
-                        renowned boarding school, ’ Doon International School,’
-                        he wanted to take the road less traveled and embark on
-                        the thrilling journey. He has brought a lot of accolades
-                        in skiing and competed at the highest level. He still
-                        participates in skiing competitions due to his immense
-                        love for this sport. Apart from being adventurous,
-                        Anshuman is a fun-loving and welcoming person as he
-                        believes in the philosophy of ‘Vasudhaiva Katumbakam’
-                        that every living being is a part of our family.
+                      Anshuman’s curiosity to endeavor the Himalayas started at a very young age. His passion for trekking and delving into one of the most famous adventure sports, ‘skiing,’ started when he was 10 years old. How did this happen? What made him so inquisitive to explore this mountain range? Like any other adrenaline junkie, he went on different treks with his cousins and their trekking groups from India and people from other continents. One day when he went for his first peak summit of Mt Pangarchulla at the age of 12. This was a game-changing moment for him, and then he never looked back. He realized that his love for the mountains could not be replaced; hence he started his own trekking company at 16. Anshuman was a different person altogether; wanted to do something different and break the barriers. A rank holder in academics but,’ he wanted to take the road less traveled and embark on the thrilling journey.  He has brought a lot of accolades in skiing and competed at the highest level. He still participates in skiing competitions due to his immense love for this sport. Apart from being adventurous, Anshuman is a fun-loving and welcoming person as he believes in the philosophy of ‘Vasudhaiva Katumbakam’ that every living being is a part of our family.
                       </em>
                     </p>
                   </div>
