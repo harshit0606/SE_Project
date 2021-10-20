@@ -59,7 +59,7 @@ function Sidebar() {
           </MenuItem>
         </Menu>
         <SidebarFooter className="admin-dashboard-sidebar-footer">
-          Copyright © PacAuli
+          Copyright © kashti Travels
         </SidebarFooter>
       </ProSidebar>
     </div>

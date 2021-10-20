@@ -132,7 +132,7 @@ const ContactUs = () => {
                     alt="Location"
                     className="contact-info-icon"
                   />
-                  <p>Pac Auli Office, Auli Road, Joshimath.</p>
+                  <p>Bir, Himachal Pradesh</p>
                 </div>
               </div>
               <div className="info">
@@ -145,9 +145,9 @@ const ContactUs = () => {
                   <p>
                     <a
                       className="contact-us-link"
-                      href="mailto:info@pacauli.com"
+                      
                     >
-                      info@pacauli.com
+                      info@kashtitravels.com
                     </a>
                   </p>
                 </div>
@@ -161,7 +161,7 @@ const ContactUs = () => {
                   />
                   <p>
                     <a className="contact-us-link" href="tel:917906114905">
-                      +91-7906114905
+                      +91-9815410772
                     </a>
                   </p>
                 </div>
@@ -169,19 +169,19 @@ const ContactUs = () => {
               <div className="social-media">
                 <p>Connect with us:</p>
                 <div className="social-icons">
-                  <a href="https://www.facebook.com/Pacauli/">
+                  <a >
                     <i className="fab fa-facebook-f"></i>
                   </a>
-                  <a href="mailto:info@pacauli.com">
+                  <a >
                     <i class="fas fa-envelope"></i>
                   </a>
-                  <a href="https://www.instagram.com/pac_auli/?hl=en">
+                  <a >
                     <i className="fab fa-instagram"></i>
                   </a>
-                  <a href="https://www.google.com/search?q=pacauli&rlz=1C1CHBF_enIN863IN863&oq=pacauli+&aqs=chrome..69i57j69i59j69i60l6.1995j0j4&sourceid=chrome&ie=UTF-8#lrd=0x39a79dae40b6daf7:0x6564e03ad73a0fbf,1,,,">
+                  <a >
                     <i class="fab fa-google"></i>
                   </a>
-                  <a href="https://www.youtube.com/channel/UCLJwNA0dOYJk3AJb-yC3MKw">
+                  <a >
                     <i class="fab fa-youtube"></i>
                   </a>
                 </div>

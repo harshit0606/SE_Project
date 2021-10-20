@@ -4,7 +4,7 @@ import { Card, Form, Button } from "react-bootstrap";
 import firebase from "firebase";
 import { toast, ToastContainer } from "react-toastify";
 
-import logo from "../Assets/logo.png";
+import logo from "../Assets/kashti travels.png";
 import "../Styles/Loginnew.css";
 import authContext from '../utils/auth-hook'
 
