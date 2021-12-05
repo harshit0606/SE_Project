@@ -1,6 +1,6 @@
 import React from "react";
 import Spinner from "react-bootstrap/Spinner";
-import logo from "../Assets/logo.png";
+import logo from "../Assets/kashti travels.png";
 
 import "../Styles/LoadingScreen.css";
 
