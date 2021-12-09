@@ -49,6 +49,7 @@ import AllBookings from "./Admin/AllBookings";
 
 import { AuthContextProvider } from "./utils/auth-hook";
 import MyDocument from "./Components/PDF/Pdf";
+import ResultPage from "./Core/ResultPage";
 
 function App() {
   return (
@@ -60,6 +61,7 @@ function App() {
             <Route path="/" exact component={Home} />
             <Route path="/contactus" exact component={ContactUs} />
             <Route path="/categories" exact component={Categroies} />
+            <Route path="/search/:destination/:duration/:budget" exact component={ResultPage} />
             
             <Route path="/custompackage" exact component={CustomPackage} />
             <Route path="/pdf/:bookingId" exact component={MyDocument} />

@@ -101,8 +101,7 @@
 }
 
 .headd h1 {
-  font-size: 5vw;
-  max-width: 75vw;
+  font-size: 25px!important;
   color: black;
   transition: all 0.4s ease;
 }
