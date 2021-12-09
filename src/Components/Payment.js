@@ -12,7 +12,7 @@ import { BsPlus } from "react-icons/bs";
 import { BiMinus } from "react-icons/bi";
 import "../Styles/Payment.css";
 import Booked from "../Assets/booked.svg";
-import logo from "../Assets/logo.png";
+import logo from "../Assets/kashti travels.png";
 import { Link, Redirect } from "react-router-dom";
 import firebase from "firebase";
 import { toast } from "react-toastify";
@@ -743,7 +743,7 @@ const Payment = (props) => {
   };
 
   const generateTokenRazor = (payableAmount) => {
-    return fetch(`https://pacauli.herokuapp.com/api/payment/details`, {
+    return fetch(`https://razor-api.herokuapp.com/api/payment/details`, {
       method: "Post",
       headers: {
         Accept: "application/json",
@@ -766,8 +766,8 @@ const Payment = (props) => {
       const getToken = (payableAmount) => {
         generateTokenRazor(payableAmount).then((data) => {
           const options = {
-            key: "rzp_live_9dMckzPAc6LgF6",
-            name: "PacAuli",
+            key: "rzp_test_IVJoD9ft3rH2lg",
+            name: "Kashti Travels",
             description: "Thank You for choosing us.",
             currency: "INR",
             order_id: data.id,
@@ -943,7 +943,7 @@ const Payment = (props) => {
                 </div>
               </Col>
             </Row>
-            <div className="donation-div">
+            {/*<div className="donation-div">
               <h5>Contribute to Cuddle The Himalayas Foundation</h5>
               <p>
                 Pacauli has funded and worked with Cuddle The Himalaya
@@ -1024,7 +1024,7 @@ const Payment = (props) => {
                 </Col>
               </Row>
             </div>
-
+                        */}
             <div className="total-cost">
               <Row>
                 <Col lg={8} md={8} sm={8} xs={8} className="total-col">
@@ -1050,14 +1050,7 @@ const Payment = (props) => {
                   <h5>{gst}</h5>
                 </Col>
               </Row> */}
-              <Row>
-                <Col lg={8} md={8} sm={8} xs={8} className="total-col">
-                  <h5>Donation for Cuddle The Himalayas Foundation</h5>
-                </Col>
-                <Col className="total-col1">
-                  <h5>{donation}</h5>
-                </Col>
-              </Row>
+              
               <hr className="line"></hr>
               <Row>
                 <Col lg={8} md={8} sm={8} xs={8} className="total-col">

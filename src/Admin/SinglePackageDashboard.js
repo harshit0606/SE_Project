@@ -96,32 +96,7 @@ function SinglePackageDashboard(props) {
             </Col>
           </Row>
 
-          <Row className="admin-dashboard-cards-row">
-            <Col lg={6} md={6} sm={12}>
-              <Link
-                className="admin-dashboard-link"
-                to={`/admin/package/${packageType}/${docId}/date`}
-              >
-                <Card className="admin-dashboard-card">
-                  <Card.Body className="admin-dashboard-card-body">
-                    <h3>Add Dates and Seats</h3>
-                  </Card.Body>
-                </Card>
-              </Link>
-            </Col>
-            <Col lg={6} md={6} sm={12}>
-              <Link
-                className="admin-dashboard-link"
-                to={`/admin/package/${packageType}/${docId}/editdate`}
-              >
-                <Card className="admin-dashboard-card">
-                  <Card.Body className="admin-dashboard-card-body">
-                    <h3>Edit Dates and Seats</h3>
-                  </Card.Body>
-                </Card>
-              </Link>
-            </Col>
-          </Row>
+          
         </Col>
       </Row>
     </div>

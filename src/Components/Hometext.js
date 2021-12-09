@@ -10,7 +10,7 @@ const Hometext = (props) => {
       <Container>
         <div className="headd">
           <h1>
-            <span>{props.mainheading}</span>
+            {props.mainheading}
           </h1>
         </div>
         <br />
@@ -44,7 +44,7 @@ const Hometext = (props) => {
             <Row>
               <div className="headings-aks">
                 <h1 class="soul regaltos">
-                  <span>{props.heading2}</span>
+                  {props.heading2}
                 </h1>
               </div>
             </Row>
