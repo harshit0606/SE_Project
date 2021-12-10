@@ -102,6 +102,7 @@
 
 .headd h1 {
   font-size: 25px!important;
+  max-width: 75vw;
   color: black;
   transition: all 0.4s ease;
 }
@@ -125,6 +126,16 @@
   text-align: justify;
 }
 
+.explore-btn0.row{
+  width: 100%;
+}
+.explore-btn0{
+  width:350px;
+}
+.horizontal {
+  padding-left: 100px;
+  width:100px;
+}
 @media screen and (max-width: 576px) {
   .regaltos span {
     font-size: 20px;
@@ -182,7 +193,7 @@
 }
 
 .explore-btn0 {
-  padding-left: 190px;
+  padding-left: 0px;
 }
 
 

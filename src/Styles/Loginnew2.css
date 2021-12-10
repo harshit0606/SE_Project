@@ -113,23 +113,7 @@
   padding-top: 20px !important;
 }
 
-@media (max-width: 1400px) {
-  .form-container-ax {
-    height: 60%;
-  }
 
-  .form-img-ax {
-    display: none;
-  }
-
-  .contact-form-ax {
-    transform: translateY(0);
-  }
-
-  .contact-form-ax:hover {
-    transform: translateY(-1rem);
-  }
-}
 
 @media (max-width: 550px) {
   .section-4 {

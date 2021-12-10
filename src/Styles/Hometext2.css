@@ -82,7 +82,7 @@
   }
   
   .headdd h1 {
-    font-size: 5vw;
+    font-size: 25px!important;
     max-width: 75vw;
     color: white;
     transition: all .4s ease;
@@ -90,6 +90,7 @@
   .headdd h1 span {
     background-image: linear-gradient(transparent calc(75% - 10px), grey 5px);
     background-size: 0;
+    max-width: 150px!important;
     background-repeat: no-repeat;
     display: inline;
     transition: 0.5s ease;
@@ -157,9 +158,16 @@
     transform: scale3d(1, 1, 1);
   }
 
-
+  .explore-btn00.row{
+    width: 100%;
+  }
   .explore-btn00{
-    padding-left: 190px;
+    width:350px;
+  }
+  .horizontall {
+    padding-left: 100px;
+    width:100px;
+    
   }
 
   @media only screen and (max-width: 600px) {

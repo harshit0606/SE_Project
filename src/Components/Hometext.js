@@ -44,8 +44,8 @@ const Hometext = (props) => {
             <Row>
               <div className="headings-aks">
                 <h1 class="soul regaltos">
-                  {props.heading2}
-                </h1>
+                  <span>{props.heading2}</span>
+                  </h1>
               </div>
             </Row>
             <Row>

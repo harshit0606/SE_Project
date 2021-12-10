@@ -13,5 +13,5 @@
     color:white;
 }
 .resultpage_maindiv{
-    height: 90vh;
+    min-height: 90vh;
 }

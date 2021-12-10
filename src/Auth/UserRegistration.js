@@ -4,7 +4,7 @@ import firebase from "firebase";
 
 import "./Login.css";
 import "../Styles/Loginnew2.css";
-import logo from "../Assets/logo.png";
+import logo from "../Assets/kashti travels.png";
 import { Redirect } from "react-router-dom";
 import Imageupload from "./Imageupload";
 import authContext from '../utils/auth-hook'
