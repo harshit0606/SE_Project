@@ -189,7 +189,7 @@ function EditUser() {
           {/* <div className="edit-custom">
             <p>Edit Details</p>
           </div> */}
-          <div className="heading-alt">
+          <div className="heading-alt-4">
             <h2>Edit Details</h2>
             <h2>Edit Details</h2>
           </div>

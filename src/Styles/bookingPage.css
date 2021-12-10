@@ -30,6 +30,7 @@
 
 .no-bookings a {
     color: var(--primary);
+    font-size: 22px;
     text-decoration: none !important;
     transition: 0.25s ease-in;
 }

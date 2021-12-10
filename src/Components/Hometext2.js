@@ -10,7 +10,7 @@ const Hometext = (props) => {
       <Container>
         <div className="headdd">
           <h1>
-            <span>{props.mainheading}</span>
+            {props.mainheading}
           </h1>
         </div>
         <br />

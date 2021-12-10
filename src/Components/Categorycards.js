@@ -10,7 +10,7 @@ const Categorycards = () => {
       <div className="team-section">
         <div className="headd">
           <h1>
-            <span>WHAT DO WE OFFER?</span>
+            WHAT DO WE OFFER?
           </h1>
         </div>
         <Row data-aos="fade-up" className="team-cards-aks">

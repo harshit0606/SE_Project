@@ -57,7 +57,7 @@ function SingleCatScreen(props) {
         {/* <div style={headingStyle} className="heading-catSreen">
           <p>&nbsp;&nbsp;{category[props.index].Name}&nbsp;&nbsp;</p>
         </div> */}
-        <div style={headingStyle} className="heading-alt">
+        <div style={headingStyle} className="heading-alt-5">
           <h2>{category[props.index].Name}</h2>
           <h2>{category[props.index].Name}</h2>
         </div>
